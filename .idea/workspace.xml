@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89cc8e74-fe1e-4b8c-a2da-f24186caef88" name="Changes" comment="API tests update" />
+    <list default="true" id="89cc8e74-fe1e-4b8c-a2da-f24186caef88" name="Changes" comment="API tests update README.md">
+      <change afterPath="$PROJECT_DIR$/user_data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_get_list_users.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_get_list_users.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_post_create_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_post_create_user.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +28,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "PeterFabianGit"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/PeterFabianGit/Moxymind_pythonProject2",
+    "accountId": "511e39c1-f053-45dd-9a5d-5ecb521712db"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -33,6 +53,9 @@
   "keyToString": {
     "Python tests.Python tests in get_list_users.py.executor": "Run",
     "Python tests.Python tests in post_create_user.py.executor": "Run",
+    "Python tests.Python tests in test_get_list_users.py.executor": "Run",
+    "Python tests.Python tests in test_get_list_users2.py.executor": "Run",
+    "Python tests.Python tests in test_post_create_user.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -77,7 +100,31 @@
       <option name="project" value="LOCAL" />
       <updated>1716971477602</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="API tests update">
+      <option name="closed" value="true" />
+      <created>1716971682892</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716971682892</updated>
+    </task>
+    <task id="LOCAL-00005" summary="API tests update">
+      <option name="closed" value="true" />
+      <created>1716971968776</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716971968776</updated>
+    </task>
+    <task id="LOCAL-00006" summary="API tests update README.md">
+      <option name="closed" value="true" />
+      <created>1716972001434</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1716972001434</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,6 +141,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="API tests" />
     <MESSAGE value="API tests update" />
-    <option name="LAST_COMMIT_MESSAGE" value="API tests update" />
+    <MESSAGE value="API tests update README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="API tests update README.md" />
   </component>
 </project>
