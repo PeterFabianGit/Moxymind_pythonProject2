@@ -17,6 +17,11 @@
   2. Validate the response status code.
   3. Validate the structure and content of the response.
 
+
+## Install dependencies:
+1. pip install -r requirements.txt
+
+
 ## Setup
 
 1. Clone the repository:
