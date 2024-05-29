@@ -19,7 +19,7 @@
 
 
 ## Install dependencies:
-1. pip install -r requirements.txt
+1. pip install -r requirements.txt  
 
 
 ## Setup
