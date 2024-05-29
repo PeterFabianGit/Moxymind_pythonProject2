@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89cc8e74-fe1e-4b8c-a2da-f24186caef88" name="Changes" comment="API tests">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="89cc8e74-fe1e-4b8c-a2da-f24186caef88" name="Changes" comment="API tests update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +61,23 @@
       <option name="project" value="LOCAL" />
       <updated>1716969224290</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="API tests update">
+      <option name="closed" value="true" />
+      <created>1716971118398</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716971118398</updated>
+    </task>
+    <task id="LOCAL-00003" summary="API tests update">
+      <option name="closed" value="true" />
+      <created>1716971477602</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716971477602</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,6 +93,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="API tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="API tests" />
+    <MESSAGE value="API tests update" />
+    <option name="LAST_COMMIT_MESSAGE" value="API tests update" />
   </component>
 </project>
